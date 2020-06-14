@@ -1,9 +1,5 @@
 package GeekBrains;
-
-import java.util.Scanner;
-
 public class Main {
-
 
     public static void main(String[] args) {
         byte B = 1;
@@ -18,8 +14,7 @@ public class Main {
         String S = "sssss";
         System.out.println("jfhdsj");
 
-        float E = Calculation(1,3, 10, 3);
-        System.out.println(E);
+        
         System.out.println(Calculation(34,2,56,32));
         if (Check(12,14) == true){
             System.out.println("True");
